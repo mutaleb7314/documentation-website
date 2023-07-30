@@ -47,3 +47,30 @@ nav ul li:hover {
     background: #ccc;
     transition: 0.3s ease-in-out;
 }
+
+#itroduction {
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+#itroduction h1 {
+    margin-top: 30px;
+}
+
+#itroduction p {
+    margin-top: 30px;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: bold;
+}
+
+#itroduction ul {
+    margin-top: 30px;
+}
+
+#itroduction ul li {
+    margin-top: 30px;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: bold;
+}
